@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | unqe -u 
+sort | unig -u 
